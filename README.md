@@ -1,1 +1,3 @@
 # heart_disease_prediction_DS
+
+The Heart Disease Prediction project aims to develop a machine learning model that predicts the likelihood of heart disease based on patient data. The project involves data preprocessing, feature selection, and the application of algorithms like logistic regression or decision trees. The model is trained on a dataset containing various health indicators, such as age, cholesterol levels, and blood pressure. After training, the model can predict heart disease risk for new patients. The project emphasizes accuracy to assist healthcare professionals in early diagnosis and treatment planning.
